@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Image Generator",
+  "description": "An application that allows users to generate images from text prompts with the power of Gemini 2.5 Flash Image. Describe the image you want to create and see it come to life.",
+  "requestFramePermissions": []
+}
